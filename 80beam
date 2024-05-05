@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon Site</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f3f4f6;
+        }
+        .container {
+            text-align: center;
+            background-color: #fff;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #555;
+            margin-bottom: 20px;
+        }
+        .discord-link, .game-link {
+            font-size: 24px;
+            text-decoration: none;
+            color: #7289da;
+            transition: color 0.3s ease;
+        }
+        .discord-link:hover, .game-link:hover {
+            color: #4e6cff;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>hai twin >.< !</h1>
+        <p>join the discord :</p>
+        <a class="discord-link" href="https://discord.gg/NmnpbgVUQu" target="_blank">https://discord.gg/NmnpbgVUQu</a>
+        <div>
+            <p>Beam Method</p>
+            <img src="https://i.pinimg.com/564x/18/f8/eb/18f8eb481b8fbe4c989b28c631f49c7b.jpg" alt="Beam Method">
+            <p style="margin-top: 10px;">
+                <a class="game-link" href="https://www.roblox.com/game-pass/803734968/method" target="_blank">Beam Method </a>
+            </p>
+        </div>
+    </div>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon Site</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f3f4f6;
+        }
+        .container {
+            text-align: center;
+            background-color: #fff;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #555;
+            margin-bottom: 20px;
+        }
+        .discord-link, .game-link {
+            font-size: 24px;
+            text-decoration: none;
+            color: #7289da;
+            transition: color 0.3s ease;
+        }
+        .discord-link:hover, .game-link:hover {
+            color: #4e6cff;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>hai twin >.< !</h1>
+        <p>join the discord :</p>
+        <a class="discord-link" href="https://discord.gg/NmnpbgVUQu" target="_blank">https://discord.gg/NmnpbgVUQu</a>
+        <div>
+            <p>Beam Method</p>
+            <img src="https://i.pinimg.com/564x/18/f8/eb/18f8eb481b8fbe4c989b28c631f49c7b.jpg" alt="Beam Method">
+            <p style="margin-top: 10px;">
+                <a class="game-link" href="https://www.roblox.com/game-pass/803734968/method" target="_blank">Beam Method </a>
+            </p>
+        </div>
+    </div>
+</body>
+</html>
